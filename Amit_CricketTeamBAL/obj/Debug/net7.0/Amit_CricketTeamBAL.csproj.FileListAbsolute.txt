@@ -1,0 +1,17 @@
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\bin\Debug\net7.0\Amit_CricketTeamBAL.deps.json
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\bin\Debug\net7.0\Amit_CricketTeamBAL.runtimeconfig.json
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\bin\Debug\net7.0\Amit_CricketTeamBAL.dll
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\bin\Debug\net7.0\Amit_CricketTeamBAL.pdb
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\obj\Debug\net7.0\Amit_CricketTeamBAL.csproj.AssemblyReference.cache
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\obj\Debug\net7.0\Amit_CricketTeamBAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\obj\Debug\net7.0\Amit_CricketTeamBAL.AssemblyInfoInputs.cache
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\obj\Debug\net7.0\Amit_CricketTeamBAL.AssemblyInfo.cs
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\obj\Debug\net7.0\Amit_CricketTeamBAL.csproj.CoreCompileInputs.cache
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\obj\Debug\net7.0\Amit_CricketTeamBAL.dll
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\obj\Debug\net7.0\refint\Amit_CricketTeamBAL.dll
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\obj\Debug\net7.0\Amit_CricketTeamBAL.pdb
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\obj\Debug\net7.0\Amit_CricketTeamBAL.genruntimeconfig.cache
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\obj\Debug\net7.0\ref\Amit_CricketTeamBAL.dll
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\bin\Debug\net7.0\Amit_CricketTeamDAL.dll
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\bin\Debug\net7.0\Amit_CricketTeamDAL.pdb
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamBAL\obj\Debug\net7.0\Amit_CricketTeamBAL.csproj.CopyComplete

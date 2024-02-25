@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Amit_CricketTeamApi.props" />
+</Project>

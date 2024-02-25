@@ -1,0 +1,14 @@
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\obj\Debug\net7.0\Amit_CricketTeamDAL.csproj.AssemblyReference.cache
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\obj\Debug\net7.0\Amit_CricketTeamDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\obj\Debug\net7.0\Amit_CricketTeamDAL.AssemblyInfoInputs.cache
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\obj\Debug\net7.0\Amit_CricketTeamDAL.AssemblyInfo.cs
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\obj\Debug\net7.0\Amit_CricketTeamDAL.csproj.CoreCompileInputs.cache
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\bin\Debug\net7.0\Amit_CricketTeamDAL.deps.json
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\bin\Debug\net7.0\Amit_CricketTeamDAL.runtimeconfig.json
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\bin\Debug\net7.0\Amit_CricketTeamDAL.dll
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\bin\Debug\net7.0\Amit_CricketTeamDAL.pdb
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\obj\Debug\net7.0\Amit_CricketTeamDAL.dll
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\obj\Debug\net7.0\refint\Amit_CricketTeamDAL.dll
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\obj\Debug\net7.0\Amit_CricketTeamDAL.pdb
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\obj\Debug\net7.0\Amit_CricketTeamDAL.genruntimeconfig.cache
+E:\Amit\Partical_Team_Test\Amit_CricketTeamApi\Amit_CricketTeamDAL\obj\Debug\net7.0\ref\Amit_CricketTeamDAL.dll
